@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+<div class="container">
+    <div class="header">
+        <h1>Example Vertical Fill</p>
+    </div>
+    <div class="content-body">
+        <p>Here is some content in the main section</p>
+    </div>
+    <div class="footer">
+        <p>This is the footer</p>
+    </div>
+</div>
+</body>
+</html>
